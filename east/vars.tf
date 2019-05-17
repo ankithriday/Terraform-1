@@ -28,5 +28,5 @@ variable "key_name" {
 }
 
 variable "vpc" {
-  default = "vpc-e5b89f8d"
+  default = "vpc-571eaa2d"
 }
