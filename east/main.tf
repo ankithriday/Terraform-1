@@ -10,4 +10,4 @@ resource "aws_instance" "web1" {
  # tags {
   #  Name = "Instance1"
 #  }
-# }
+  }
