@@ -12,7 +12,7 @@ variable "security_groups" {
 }
 
 variable "subnets" {
-  default = "subnet-64e7ac0c"
+  default = "subnet-170d265d"
 }
 
 variable "availability_zones" {
